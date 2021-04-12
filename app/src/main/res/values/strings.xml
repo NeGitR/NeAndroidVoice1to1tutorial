@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Ne-Android-Voice-1to1-tutorial</string>
+        <string name="please_input_user_id">Please input user id</string>
+        <string name="please_input_room_id">Please input room id</string>
+        <string name="start_dump">start Dump</string>
+        <string name="stop_dump">stop Dump</string>
+        <string name="join_room">Join Room</string>
+        <string name="leave_room">Leave Room</string>
+        <string name="app_key" translatable="false">a01b7258131d539364914d3d45eeb357</string>
+
+</resources>
